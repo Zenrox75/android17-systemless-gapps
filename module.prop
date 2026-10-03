@@ -1,0 +1,6 @@
+id=systemless_gapps
+name=Systemless GApps
+version=1
+versionCode=1
+author=community
+description=MindTheGapps (with GmsCore) installed systemlessly via Magisk
